@@ -1,8 +1,8 @@
 
 
-Hi there 👋
+Hello 👋
 
-🔭 I’m currently working on : DevOps Services
+🔭 I’m currently working on : DevOps & Cloud Services
 
 👀 I’m interested in Dev+Ops, Full Stack
 
